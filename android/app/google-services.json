@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723669463964",
+    "project_id": "charity-management-syste-a2ff0",
+    "storage_bucket": "charity-management-syste-a2ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723669463964:android:03ca532646e6e989860e59",
+        "android_client_info": {
+          "package_name": "com.example.flutter_catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723669463964-cdkpb1j8c31qol93hlh4kp9239g9vo46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuh80tKqoUVXtWq3i3w73_4SCE89BHg2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723669463964-cdkpb1j8c31qol93hlh4kp9239g9vo46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
